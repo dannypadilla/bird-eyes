@@ -9,7 +9,7 @@
 
 ## ToDo:
    1. PREP:
-     * convert videos to smaller format (to share with repo since they're huge files)
+      * convert videos to smaller format (to share with repo since they're huge files)
    2. create jupyter notebook for preprocessing
    3. convert videos to images for testing (full res?)
    4. tbd
