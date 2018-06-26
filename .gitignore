@@ -1,0 +1,26 @@
+
+
+# debug
+*.dSYM/
+
+
+# python
+__pycache__/
+
+
+# jupyter notebook
+.ipynb_checkpoints
+
+
+# emacs
+.#*
+*~
+\#*\#
+
+
+# macos
+.DS_Store
+
+
+# testing folder
+./testing/
